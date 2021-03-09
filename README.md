@@ -2,11 +2,11 @@
 
 <img src="image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
-<p align="left"> 
-  Me chamo Fabrício Lopes, nasci e moro em Belo Horizonte - MG e tenho 17 anos. Atualmente com a meta de me tonar um Desenvolvedor Web Full-Stack, também estou me aventurando e amando o mundo Linux. :penguin: :grin:
+<p align="left">
+  My name is Fabrício Lopes, I was born and live in Belo Horizonte - MG and I'm 17 years old. Currently with the goal of becoming a Full-Stack Web Developer, I am also venturing out and loving the Linux world. :penguin: :grin:
 </p>
 
-<p align="left"> :rocket: <strong>Minha Stack:</strong><br>
+<p align="left"> :rocket: <strong>My Stack:</strong><br>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -14,26 +14,26 @@
   </ul>
 </p>
 
-<p align="left"> :briefcase: <strong>Ferramentas:</strong>
+<p align="left"> :briefcase: <strong>Tools:</strong>
   <ul>
     <li>Sublime-Text</li>
   </ul>
 </p>
 
-<p align="left" > <strong> :books: Aprendendo:</strong>
+<p align="left" > <strong> :books: Learning:</strong>
   <ul>
-    <li> :technologist: Desenvolvimento Web</li>
-    <li> :arrow_up: Aprimorando o Inglês</li>
-    <li> :penguin: Linux</li>
+    <li> :technologist: Web Development</li>
+    <li> :arrow_up: Improving English</li>
+    <li> :penguin: Arch Linux</li>
   </ul>
 </p>
 
 <p align="left">
-  :telescope: No momento estou trabalhando no meu projeto <a href="https://github.com/Fabricio-Lopees/Web-Development">Web Development</a> onde eu coloco tópicos que estou aprendendo no Desenvolvimento Web e alguns deles eu tento explicar da melhor forma que eu conseguir.
+  :telescope: I'm currently working on my <a href="https://github.com/Fabricio-Lopees/Web-Development">Web Development</a> project, where I post topics I'm learning in Web Development and some of them I try explain as best as I can.
 </p>
 
 <h4 align="left">
-  Caso deseje fazer alguma pergunta ou simplesmente bater um papo, sinta-se a vontade: :arrow_heading_down:
+  If you want to ask a question or just have a chat, feel free: :arrow_heading_down:
 </h4>
 
 <p align="left">
@@ -52,7 +52,7 @@
 
 ----
 
-## :star: Informações sobre minha conta GitHub
+## :star: Information about my GitHub account
 [![Fabricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Lopees&show_icons=true&theme=tokyonight)](https://github.com/Fabricio-Lopees)
 [![Fabricio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Lopees&layout=compact&theme=tokyonight)](https://github.com/Fabricio-Lopees)
 
